@@ -12,4 +12,5 @@ This course can be found by heading to - https://youtu.be/ATaFhbaQROk
 
 ## File Listing & Description
 
-VMware PowerCLI vSphere Report: vmware-vsphere-report.ps1
+VMware vSphere Report
+ - vmware-vsphere-report.ps1

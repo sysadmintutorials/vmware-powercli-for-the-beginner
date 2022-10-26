@@ -11,3 +11,5 @@ The script files contained here accompany my course on 'Learning VMware PowerCLI
 This course can be found by heading to - https://youtu.be/ATaFhbaQROk
 
 ## File Listing & Description
+
+VMware PowerCLI vSphere Report: vmware-vsphere-report.ps1

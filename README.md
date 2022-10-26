@@ -3,7 +3,7 @@
 #### Version: 1
 #### Blog: www.sysadmintutorials.com
 #### Twitter: @systutorials
-#### Youtube: https://youtu.be/_pFezBKCW0Q
+#### Youtube: https://bit.ly/SysadminTutorialsSubscribe
 
 ## Description
 

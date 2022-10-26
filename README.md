@@ -1,6 +1,6 @@
 # Learning VMware PowerCLI For The Absolute Beginner
 #### Date: 26/10/2022
-#### Version: 1
+#### Version: 1.1
 #### Blog: www.sysadmintutorials.com
 #### Twitter: @systutorials
 #### Youtube: https://bit.ly/SysadminTutorialsSubscribe
